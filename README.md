@@ -1,2 +1,1 @@
-# FRONTEND_REACT_JS_ASSIGNMENT
-movie manager localhost:3020/movie-details
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).

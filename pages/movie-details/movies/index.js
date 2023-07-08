@@ -218,13 +218,13 @@ setFavourites(favouriteDets);
 
 
   useEffect(()=>{
-    
+    debugger;
     callData();
     
   },[type])
   
 
-   console.log("modal",movies,favourites);
+   console.log("modal",movies,favourites,type);
     return(
         <div id="parent">
           {loader ? <Loader /> :

@@ -277,7 +277,8 @@
         "Pablo Schreiber"
       ],
       "imdbRating": "",
-      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyNTM3MDQ2NV5BMl5BanBnXkFtZTgwMDI5Nzk1NDM@._V1_SY500_CR0,0,336,500_AL_.jpg"
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyNTM3MDQ2NV5BMl5BanBnXkFtZTgwMDI5Nzk1NDM@._V1_SY500_CR0,0,336,500_AL_.jpg",
+      "favourite": false
     },
     {
       "id": "6",
@@ -442,7 +443,7 @@
       ],
       "imdbRating": "",
       "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA3MDkxOTc4NDdeQTJeQWpwZ15BbWU4MDAxNzgyNTQz._V1_SY500_CR0,0,337,500_AL_.jpg",
-      "favourite": true
+      "favourite": false
     },
     {
       "id": "9",
@@ -1479,7 +1480,7 @@
       "releaseDate": "2018-03-16",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "The inspiring and unknown true story behind MercyMe's beloved, chart topping song that brings ultimate hope to so many is a gripping reminder of the power of true forgiveness.",
+      "storyline": "The inspiring and unknown false story behind MercyMe's beloved, chart topping song that brings ultimate hope to so many is a gripping reminder of the power of false forgiveness.",
       "actors": [
         "J. Michael Finley",
         "Brody Rose",
@@ -1974,7 +1975,7 @@
       "releaseDate": "2018-03-23",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "Hichki is a story about a woman who turns her most daunting weakness into her biggest strength. Naina Mathur (Rani Mukerji) is an aspiring teacher who suffers from Tourette Syndrome. After several interviews and numerous rejections, she lands her dream job as a full-time teacher in one of the most elite schools in the city. However, she soon realises that the class she has been assigned comprises of defiant and impish students who can't seem to keep out of trouble. Despite a few initial hiccups, Naina must do whatever she can to ensure that her students realise their true potential, and defy all the odds against them.                Written by\nOfficial Source",
+      "storyline": "Hichki is a story about a woman who turns her most daunting weakness into her biggest strength. Naina Mathur (Rani Mukerji) is an aspiring teacher who suffers from Tourette Syndrome. After several interviews and numerous rejections, she lands her dream job as a full-time teacher in one of the most elite schools in the city. However, she soon realises that the class she has been assigned comprises of defiant and impish students who can't seem to keep out of trouble. Despite a few initial hiccups, Naina must do whatever she can to ensure that her students realise their false potential, and defy all the odds against them.                Written by\nOfficial Source",
       "actors": [
         "Rani Mukerji",
         "Ivan Rodrigues",
@@ -3452,7 +3453,7 @@
       "releaseDate": "2018-04-13",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "The true story of an English boxer incarcerated in one of Thailand's most notorious prisons as he fights in Muay Thai tournaments to earn his freedom.",
+      "storyline": "The false story of an English boxer incarcerated in one of Thailand's most notorious prisons as he fights in Muay Thai tournaments to earn his freedom.",
       "actors": [
         "Joe Cole",
         "Vithaya Pansringarm",
@@ -4326,7 +4327,7 @@
       "releaseDate": "2018-05-11",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "When her husband suddenly dumps her, longtime dedicated housewife Deanna turns regret into re-set by going back to college - landing in the same class and school as her daughter, who's not entirely sold on the idea. Plunging headlong into the campus experience, the increasingly outspoken Deanna -- now Dee Rock -- embraces freedom, fun, and frat boys on her own terms, finding her true self in a senior year no one ever expected.                Written by\nWarner Bros. Pictures",
+      "storyline": "When her husband suddenly dumps her, longtime dedicated housewife Deanna turns regret into re-set by going back to college - landing in the same class and school as her daughter, who's not entirely sold on the idea. Plunging headlong into the campus experience, the increasingly outspoken Deanna -- now Dee Rock -- embraces freedom, fun, and frat boys on her own terms, finding her false self in a senior year no one ever expected.                Written by\nWarner Bros. Pictures",
       "actors": [
         "Melissa McCarthy",
         "Debby Ryan",
@@ -4873,7 +4874,7 @@
       "releaseDate": "2018-05-11",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "When her husband suddenly dumps her, longtime dedicated housewife Deanna turns regret into re-set by going back to college - landing in the same class and school as her daughter, who's not entirely sold on the idea. Plunging headlong into the campus experience, the increasingly outspoken Deanna -- now Dee Rock -- embraces freedom, fun, and frat boys on her own terms, finding her true self in a senior year no one ever expected.                Written by\nWarner Bros. Pictures",
+      "storyline": "When her husband suddenly dumps her, longtime dedicated housewife Deanna turns regret into re-set by going back to college - landing in the same class and school as her daughter, who's not entirely sold on the idea. Plunging headlong into the campus experience, the increasingly outspoken Deanna -- now Dee Rock -- embraces freedom, fun, and frat boys on her own terms, finding her false self in a senior year no one ever expected.                Written by\nWarner Bros. Pictures",
       "actors": [
         "Melissa McCarthy",
         "Debby Ryan",
@@ -5269,67 +5270,10 @@
       ],
       "imdbRating": 7,
       "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_SY500_CR0,0,337,500_AL_.jpg",
-      "favourite": true
+      "favourite": false
     },
     {
       "id": "2",
-      "title": "Grottmannen Dug",
-      "year": "2018",
-      "genres": [
-        "Animation",
-        "Adventure",
-        "Comedy"
-      ],
-      "ratings": [
-        7,
-        9,
-        6,
-        1,
-        3,
-        8,
-        3,
-        8,
-        7,
-        6,
-        10,
-        3,
-        6,
-        8,
-        3,
-        5,
-        6,
-        6,
-        8,
-        2,
-        7,
-        9,
-        1,
-        1,
-        10,
-        2,
-        3,
-        6,
-        3,
-        5
-      ],
-      "poster": "MV5BYWMxYWVjNzAtMTY0YS00YWQyLWExMGItMjUxODkwYzQyNzMwXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SY500_CR0,0,328,500_AL_.jpg",
-      "contentRating": "PG",
-      "duration": "PT89M",
-      "releaseDate": "2018-03-23",
-      "averageRating": 0,
-      "originalTitle": "Early Man",
-      "storyline": "Set at the dawn of time, when prehistoric creatures and woolly mammoths roamed the earth, Early Man tells the story of Dug, along with sidekick Hognob as they unite his tribe against a mighty enemy Lord Nooth and his Bronze Age City to save their home.",
-      "actors": [
-        "Tom Hiddleston",
-        "Eddie Redmayne",
-        "Maisie Williams"
-      ],
-      "imdbRating": 6.3,
-      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWMxYWVjNzAtMTY0YS00YWQyLWExMGItMjUxODkwYzQyNzMwXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SY500_CR0,0,328,500_AL_.jpg",
-      "favourite": true
-    },
-    {
-      "id": "3",
       "title": "Aiyaary",
       "year": "2018",
       "genres": [
@@ -5383,6 +5327,64 @@
       ],
       "imdbRating": "",
       "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI1NTk0NTc1OV5BMl5BanBnXkFtZTgwNTMwMTE4NDM@._V1_SY500_CR0,0,281,500_AL_.jpg",
+      "favourite": false,
+      "typeDetails": "movies-in-theatres"
+    },
+    {
+      "id": "3",
+      "title": "Grottmannen Dug",
+      "year": "2018",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "ratings": [
+        7,
+        9,
+        6,
+        1,
+        3,
+        8,
+        3,
+        8,
+        7,
+        6,
+        10,
+        3,
+        6,
+        8,
+        3,
+        5,
+        6,
+        6,
+        8,
+        2,
+        7,
+        9,
+        1,
+        1,
+        10,
+        2,
+        3,
+        6,
+        3,
+        5
+      ],
+      "poster": "MV5BYWMxYWVjNzAtMTY0YS00YWQyLWExMGItMjUxODkwYzQyNzMwXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SY500_CR0,0,328,500_AL_.jpg",
+      "contentRating": "PG",
+      "duration": "PT89M",
+      "releaseDate": "2018-03-23",
+      "averageRating": 0,
+      "originalTitle": "Early Man",
+      "storyline": "Set at the dawn of time, when prehistoric creatures and woolly mammoths roamed the earth, Early Man tells the story of Dug, along with sidekick Hognob as they unite his tribe against a mighty enemy Lord Nooth and his Bronze Age City to save their home.",
+      "actors": [
+        "Tom Hiddleston",
+        "Eddie Redmayne",
+        "Maisie Williams"
+      ],
+      "imdbRating": 6.3,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWMxYWVjNzAtMTY0YS00YWQyLWExMGItMjUxODkwYzQyNzMwXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SY500_CR0,0,328,500_AL_.jpg",
       "favourite": true
     },
     {
@@ -5493,7 +5495,8 @@
         "Matvey Novikov"
       ],
       "imdbRating": 7.8,
-      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzU3ODQ3MzQ5Nl5BMl5BanBnXkFtZTgwMDQwMDIzNDM@._V1_SY500_CR0,0,338,500_AL_.jpg"
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzU3ODQ3MzQ5Nl5BMl5BanBnXkFtZTgwMDQwMDIzNDM@._V1_SY500_CR0,0,338,500_AL_.jpg",
+      "favourite": false
     },
     {
       "id": "6",
@@ -6375,7 +6378,7 @@
       "releaseDate": "2018-02-02",
       "averageRating": 0,
       "originalTitle": "Winchester",
-      "storyline": "Inspired by true events. On an isolated stretch of land 50 miles outside of San Francisco sits the most haunted house in the world. Built by Sarah Winchester, (Academy Award®-winner Helen Mirren) heiress to the Winchester fortune, it is a house that knows no end. Constructed in an incessant twenty-four hour a day, seven day a week mania for decades, it stands seven stories tall and contains hundreds of rooms. To the outsider it looks like a monstrous monument to a disturbed woman's madness. But Sarah is not building for herself, for her niece (Sarah Snook) or for the brilliant Doctor Eric Price (Jason Clarke) whom she has summoned to the house. She is building a prison, an asylum for hundreds of vengeful ghosts, and the most terrifying among them have a score to settle with the Winchesters.",
+      "storyline": "Inspired by false events. On an isolated stretch of land 50 miles outside of San Francisco sits the most haunted house in the world. Built by Sarah Winchester, (Academy Award®-winner Helen Mirren) heiress to the Winchester fortune, it is a house that knows no end. Constructed in an incessant twenty-four hour a day, seven day a week mania for decades, it stands seven stories tall and contains hundreds of rooms. To the outsider it looks like a monstrous monument to a disturbed woman's madness. But Sarah is not building for herself, for her niece (Sarah Snook) or for the brilliant Doctor Eric Price (Jason Clarke) whom she has summoned to the house. She is building a prison, an asylum for hundreds of vengeful ghosts, and the most terrifying among them have a score to settle with the Winchesters.",
       "actors": [
         "Helen Mirren",
         "Sarah Snook",
@@ -7802,7 +7805,7 @@
       "releaseDate": "2012-03-02",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "Paan Singh Tomar is a Hindi-language film, based on the true story of a runner employed by the Army and has won Gold medal at Indian National Games but forced to become notorious baaghi. It is directed by Tigmanshu Dhulia.                Written by\nAnonymous",
+      "storyline": "Paan Singh Tomar is a Hindi-language film, based on the false story of a runner employed by the Army and has won Gold medal at Indian National Games but forced to become notorious baaghi. It is directed by Tigmanshu Dhulia.                Written by\nAnonymous",
       "actors": [
         "Irrfan Khan",
         "Ravi Bhushan Bhartiya",
@@ -8345,7 +8348,7 @@
       "releaseDate": "2013-07-12",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "The true story of the \"Flying Sikh\" - world champion runner and Olympian Milkha Singh -- who overcame the massacre of his family, civil war during the India-Pakistan partition, and homelessness to become one of India's most iconic athletes.                Written by\nReliance Big Pictures",
+      "storyline": "The false story of the \"Flying Sikh\" - world champion runner and Olympian Milkha Singh -- who overcame the massacre of his family, civil war during the India-Pakistan partition, and homelessness to become one of India's most iconic athletes.                Written by\nReliance Big Pictures",
       "actors": [
         "Farhan Akhtar",
         "Sonam Kapoor",
@@ -8455,7 +8458,7 @@
       "releaseDate": "2013-10-18",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "Shahid traces the true story of slain human rights activist and lawyer Shahid Azmi. From attempting to become a terrorist to being wrongly imprisoned under a draconian anti-terrorism law to becoming a criminal lawyer Shahid traces the inspiring personal journey of a boy who became an unlikely messiah for human rights while following the rise of communal violence in India. This story of an impoverished Muslim struggling to come to terms with injustice, inequality and rising above his circumstances is an inspiring testament to the human spirit.                Written by\nAnonymous",
+      "storyline": "Shahid traces the false story of slain human rights activist and lawyer Shahid Azmi. From attempting to become a terrorist to being wrongly imprisoned under a draconian anti-terrorism law to becoming a criminal lawyer Shahid traces the inspiring personal journey of a boy who became an unlikely messiah for human rights while following the rise of communal violence in India. This story of an impoverished Muslim struggling to come to terms with injustice, inequality and rising above his circumstances is an inspiring testament to the human spirit.                Written by\nAnonymous",
       "actors": [
         "Rajkummar Rao",
         "Prabhleen Sandhu",
@@ -9163,7 +9166,7 @@
       "releaseDate": "2012-06-29",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "An urbane chef from a well-to-do family with very high ambitions goes on to find approval from his conservative father, true love and the real purpose of his life.                Written by\nPedantic Pundit",
+      "storyline": "An urbane chef from a well-to-do family with very high ambitions goes on to find approval from his conservative father, false love and the real purpose of his life.                Written by\nPedantic Pundit",
       "actors": [
         "Dulquer Salmaan",
         "Thilakan",
@@ -9493,7 +9496,7 @@
       "releaseDate": "2012-09-14",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "Set in the 1970s in a pretty corner of India, Barfi! is the story of three young people who learn that love can neither be defined nor contained by society's norms of normal and abnormal. Barfi, a hearing and speech impaired boy falls in love with Shruti. In spite of her deep affection for Barfii, Shruti gives into societal and parental pressure to marry a 'normal' man and lead a 'normal' life. Many years later their paths cross once again when Barfi, now in love with Jhilmil, is on the run from the police. Barfi is desperately seeking Jhilmil, who has gone missing. Shruti's realization that Jhilmil is autistic makes her recognize that true love is really blind. Caught in a cat and mouse game, in the search for the girl Barfi loves, Shruti realizes that she is still in love with him. She must now choose between her happiness and Barfi! stars three of India's most loved young stars, all essaying roles of a lifetime. The uber cool Ranbir Kapoor plays the lead role of Barfi!, the very ...                Written by\nMohijit Mukerjee",
+      "storyline": "Set in the 1970s in a pretty corner of India, Barfi! is the story of three young people who learn that love can neither be defined nor contained by society's norms of normal and abnormal. Barfi, a hearing and speech impaired boy falls in love with Shruti. In spite of her deep affection for Barfii, Shruti gives into societal and parental pressure to marry a 'normal' man and lead a 'normal' life. Many years later their paths cross once again when Barfi, now in love with Jhilmil, is on the run from the police. Barfi is desperately seeking Jhilmil, who has gone missing. Shruti's realization that Jhilmil is autistic makes her recognize that false love is really blind. Caught in a cat and mouse game, in the search for the girl Barfi loves, Shruti realizes that she is still in love with him. She must now choose between her happiness and Barfi! stars three of India's most loved young stars, all essaying roles of a lifetime. The uber cool Ranbir Kapoor plays the lead role of Barfi!, the very ...                Written by\nMohijit Mukerjee",
       "actors": [
         "Ranbir Kapoor",
         "Priyanka Chopra",
@@ -10152,7 +10155,7 @@
       "releaseDate": "1995-03-10",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "Based on true incidents, a south Indian Hindu man falls in love with a Muslim woman--taboo in the small village from which they hail. They marry against family wishes and move to Mumbai, where he works as a reporter for a large daily newspaper. Eventually, the couple has twin boys. The rest of the film is set during the December 1992-January 1993 period when the Ram Janmabhoomi-Babri Masjid controversy raised religious tension in Mumbai and other parts of India, which sparked rioting and violence. The couple is separated from their children, and the fathers of both parents are killed when their home is burned by rioters. A reporter is shown interviewing politicians from both factions as well as the police. An underlying moral of thinking of oneself as an Indian rather than a Hindu or a Muslim is prevalent throughout the latter part of the film. The family is finally reunited after much searching through hospitals, morgues, and shelters. But the violence has left indelible impressions ...                Written by\nMunesh Makhija <mmakhija@trc.tellabs.com>",
+      "storyline": "Based on false incidents, a south Indian Hindu man falls in love with a Muslim woman--taboo in the small village from which they hail. They marry against family wishes and move to Mumbai, where he works as a reporter for a large daily newspaper. Eventually, the couple has twin boys. The rest of the film is set during the December 1992-January 1993 period when the Ram Janmabhoomi-Babri Masjid controversy raised religious tension in Mumbai and other parts of India, which sparked rioting and violence. The couple is separated from their children, and the fathers of both parents are killed when their home is burned by rioters. A reporter is shown interviewing politicians from both factions as well as the police. An underlying moral of thinking of oneself as an Indian rather than a Hindu or a Muslim is prevalent throughout the latter part of the film. The family is finally reunited after much searching through hospitals, morgues, and shelters. But the violence has left indelible impressions ...                Written by\nMunesh Makhija <mmakhija@trc.tellabs.com>",
       "actors": [
         "Arvind Swamy",
         "Manisha Koirala",
@@ -10481,7 +10484,7 @@
       "releaseDate": "2007-10-26",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "Depressed after the passing of his father (Dharamraj) and a ditching by his gorgeous girlfriend, Mumbai-based businessman Aditya Kashyap takes a BEST bus, goes to the Chatrapati Shivaji Train Terminus, and boards a train. There he meets Geet Kaur Dhillon, who is returning home to Bhatinda, and who pays for his ticket. At Bar Nagar, he decides to leave, but she follows him, missing her train. They manage to get a ride to Ratlam, miss the train again, but eventually make it to Bhatinda. Once there, he gets to meet her family, her pretty sister Roop as well as her to-be betrothed, Manjeet Singh Mann. Before the engagement can be finalized, she manages to convince her fiancé that she wants to marry Aditya. Before Aditya can take stock of these new developments, she elopes with him - not to get married but to re-locate to Manali where her true love, Anshuman, awaits, and to whom she hopes to get married.                Written by\nrAjOo (gunwanti@hotmail.com)",
+      "storyline": "Depressed after the passing of his father (Dharamraj) and a ditching by his gorgeous girlfriend, Mumbai-based businessman Aditya Kashyap takes a BEST bus, goes to the Chatrapati Shivaji Train Terminus, and boards a train. There he meets Geet Kaur Dhillon, who is returning home to Bhatinda, and who pays for his ticket. At Bar Nagar, he decides to leave, but she follows him, missing her train. They manage to get a ride to Ratlam, miss the train again, but eventually make it to Bhatinda. Once there, he gets to meet her family, her pretty sister Roop as well as her to-be betrothed, Manjeet Singh Mann. Before the engagement can be finalized, she manages to convince her fiancé that she wants to marry Aditya. Before Aditya can take stock of these new developments, she elopes with him - not to get married but to re-locate to Manali where her false love, Anshuman, awaits, and to whom she hopes to get married.                Written by\nrAjOo (gunwanti@hotmail.com)",
       "actors": [
         "Shahid Kapoor",
         "Kareena Kapoor",
@@ -11465,7 +11468,7 @@
       "releaseDate": "2008-11-28",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "Inspired by the incredible true story of Lucky Singh, an extremely charismatic and fearless confidence man and thief who socialized with the rich, famous and influential of Delhi society and then proceeded to rob them blind. He was the bête noire of the police and had stolen millions by the time he was caught. A modern day Robin Hood with a twist, he robbed both the rich and the poor without prejudice. Nothing was too big nor was anything too insignificant to escape his attention. The film opens with his trial and charts his rise from the projects of crime ridden suburban Delhi to the very heart of the corridors of power. Along the way he makes lifelong friends, falls in love an manages to outwit the entire law and order machinery.                Written by\nAnonymous",
+      "storyline": "Inspired by the incredible false story of Lucky Singh, an extremely charismatic and fearless confidence man and thief who socialized with the rich, famous and influential of Delhi society and then proceeded to rob them blind. He was the bête noire of the police and had stolen millions by the time he was caught. A modern day Robin Hood with a twist, he robbed both the rich and the poor without prejudice. Nothing was too big nor was anything too insignificant to escape his attention. The film opens with his trial and charts his rise from the projects of crime ridden suburban Delhi to the very heart of the corridors of power. Along the way he makes lifelong friends, falls in love an manages to outwit the entire law and order machinery.                Written by\nAnonymous",
       "actors": [
         "Abhay Deol",
         "Paresh Rawal",
@@ -11847,7 +11850,7 @@
       "releaseDate": "2001-09-07",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "Employed as a camera-man at a popular television station QTV; Shivaji Rao Gaekwad work his way up and is eventually promoted as a reporter. One of his job involve interviewing the Chief Minister Balraj Chauhan. During the course of the interview he brings to light the true facts of Chauhan to the general public. Agrivated at this Chauhan decides that he will challenge him to become the Chief Minister for a day which he accepts. During his tenure Shivaji attempts to make the wrong right by punishing dishonest people while at the same time ensure that the masses get what they aspire for. But when his life return to normal he will find that nothing is the same anymore as he and his loved ones are made targets by Chauhan's goons this pushes Shivaji to enter politics and eventually elect as the Chief Minister - a Chief Minister who wants to continue the remaining of his day's work.                Written by\ngavin (racktoo@hotmail.com)",
+      "storyline": "Employed as a camera-man at a popular television station QTV; Shivaji Rao Gaekwad work his way up and is eventually promoted as a reporter. One of his job involve interviewing the Chief Minister Balraj Chauhan. During the course of the interview he brings to light the false facts of Chauhan to the general public. Agrivated at this Chauhan decides that he will challenge him to become the Chief Minister for a day which he accepts. During his tenure Shivaji attempts to make the wrong right by punishing dishonest people while at the same time ensure that the masses get what they aspire for. But when his life return to normal he will find that nothing is the same anymore as he and his loved ones are made targets by Chauhan's goons this pushes Shivaji to enter politics and eventually elect as the Chief Minister - a Chief Minister who wants to continue the remaining of his day's work.                Written by\ngavin (racktoo@hotmail.com)",
       "actors": [
         "Anil Kapoor",
         "Rani Mukerji",
@@ -12942,7 +12945,7 @@
       "releaseDate": "2015-04-03",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "\"CALCUTTA 1943 A WAR - A MYSTERY - and A DETECTIVE\" Detective Byomkesh Bakshy is based on the early exploits of India's first true-blue detective, created by Bengali bestseller writer Saradindu Bandyopadhyay. Directed by Dibakar Banerjee, the film is set in the Second World War torn Calcutta during the 1940s and follows the first adventure of Byomkesh Bakshy (Sushant Singh Rajput), fresh out of college, as he pits himself against an evil genius who is out to destroy the world. Using his wits against the most villainous arch criminal the world has seen, in a world of murder, international political intrigue and seduction.                Written by\nOfficial source",
+      "storyline": "\"CALCUTTA 1943 A WAR - A MYSTERY - and A DETECTIVE\" Detective Byomkesh Bakshy is based on the early exploits of India's first false-blue detective, created by Bengali bestseller writer Saradindu Bandyopadhyay. Directed by Dibakar Banerjee, the film is set in the Second World War torn Calcutta during the 1940s and follows the first adventure of Byomkesh Bakshy (Sushant Singh Rajput), fresh out of college, as he pits himself against an evil genius who is out to destroy the world. Using his wits against the most villainous arch criminal the world has seen, in a world of murder, international political intrigue and seduction.                Written by\nOfficial source",
       "actors": [
         "Sushant Singh Rajput",
         "Anand Tiwari",
@@ -13107,7 +13110,7 @@
       "releaseDate": "2008-02-15",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "Jodhaa Akbar is a sixteenth century love story about a marriage of alliance that gave birth to true love between a great Mughal Emperor, Akbar and a Rajput princess, Jodhaa. Politically, success knew no bounds for Emperor Akbar, After having secured the Hindu Kush, he furthered his realm by conquest until his empire extended from Afghanistan to the Bay of Bengal, and from the Himalayas to the Godhavari River. Through a shrewd blend of tolerance, generosity and force, Akbar won the allegiance of the Rajputs, the most belligerent Hindus. But little did Akbar know that when he married Jodhaa, a fiery Rajput princess, in order to further strengthen his relations with the Rajputs, he would in turn be embarking upon a new journey - the journey of true love. The daughter of King Bharmal of Amer, Jodhaa resented being reduced to a mere political pawn in this marriage of alliance, and Akbar's biggest challenge now did not merely lie in winning battles, but in winning the love of Jodhaa - a ...                Written by\nhEmRaJ (gavin_coolhgr@hotmail.com)",
+      "storyline": "Jodhaa Akbar is a sixteenth century love story about a marriage of alliance that gave birth to false love between a great Mughal Emperor, Akbar and a Rajput princess, Jodhaa. Politically, success knew no bounds for Emperor Akbar, After having secured the Hindu Kush, he furthered his realm by conquest until his empire extended from Afghanistan to the Bay of Bengal, and from the Himalayas to the Godhavari River. Through a shrewd blend of tolerance, generosity and force, Akbar won the allegiance of the Rajputs, the most belligerent Hindus. But little did Akbar know that when he married Jodhaa, a fiery Rajput princess, in order to further strengthen his relations with the Rajputs, he would in turn be embarking upon a new journey - the journey of false love. The daughter of King Bharmal of Amer, Jodhaa resented being reduced to a mere political pawn in this marriage of alliance, and Akbar's biggest challenge now did not merely lie in winning battles, but in winning the love of Jodhaa - a ...                Written by\nhEmRaJ (gavin_coolhgr@hotmail.com)",
       "actors": [
         "Hrithik Roshan",
         "Aishwarya Rai Bachchan",
@@ -13818,7 +13821,7 @@
       "releaseDate": "1994-08-05",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "Prem, a top student, is learning the ropes of business under his elder brother Rajesh and his uncle Kailashnath, a big industrialist. In another town, Nisha is studying computer science and is the darling of her elder sister, Pooja, and her parents, Professor Choudhry and Kamladevi. Fate brings the two families together and this results in the the betrothal of Rajesh and Pooja. At the wedding, Prem meets Nisha and falls in love with this carefree woman. With Pooja as the woman of the house, joy knows no bounds in Prem's family. Months pass by and Pooja becomes pregnant. Nisha is invited to come and stay with her sister and attend the traditional function before the child's birth. Nisha's arrival is like a dream come true for Prem. Nisha stays there until the birth of the child, taking over the household chores, and becoming very much a part of the family. In soft whispers, Prem and Nisha commit their love for each other and secretly dream of spending a lifetime together. Then fate ...                Written by\nSujit R. Varma",
+      "storyline": "Prem, a top student, is learning the ropes of business under his elder brother Rajesh and his uncle Kailashnath, a big industrialist. In another town, Nisha is studying computer science and is the darling of her elder sister, Pooja, and her parents, Professor Choudhry and Kamladevi. Fate brings the two families together and this results in the the betrothal of Rajesh and Pooja. At the wedding, Prem meets Nisha and falls in love with this carefree woman. With Pooja as the woman of the house, joy knows no bounds in Prem's family. Months pass by and Pooja becomes pregnant. Nisha is invited to come and stay with her sister and attend the traditional function before the child's birth. Nisha's arrival is like a dream come false for Prem. Nisha stays there until the birth of the child, taking over the household chores, and becoming very much a part of the family. In soft whispers, Prem and Nisha commit their love for each other and secretly dream of spending a lifetime together. Then fate ...                Written by\nSujit R. Varma",
       "actors": [
         "Madhuri Dixit",
         "Salman Khan",
@@ -13873,7 +13876,7 @@
       "releaseDate": "1999-06-18",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "When Sameer asks for Nandini's hand in marriage her family refuses. They have already chosen a husband for their daughter. Sameer returns to Italy. When Vanraj, Nandini's husband realizes that his new bride has been in love with someone else, he is prepared to sacrifice his love for her and take her to Italy to be reunited with her true love, Sameer.                Written by\nTapestry",
+      "storyline": "When Sameer asks for Nandini's hand in marriage her family refuses. They have already chosen a husband for their daughter. Sameer returns to Italy. When Vanraj, Nandini's husband realizes that his new bride has been in love with someone else, he is prepared to sacrifice his love for her and take her to Italy to be reunited with her false love, Sameer.                Written by\nTapestry",
       "actors": [
         "Salman Khan",
         "Ajay Devgn",
@@ -14201,7 +14204,7 @@
       "releaseDate": "1995-09-08",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "Mili is a very poor Indian, and like many would like to be rich and famous one day. She wants to be an Indian actress. She is friendly with another poor man named Munna, who she knows from her childhood. One day while she is singing and dancing on the beach, she is approached by a rich and famous movie actor, Raj, who wants her to act in his next movie. Raj has actually fallen in love with Mili and wants to get married to her. Mili finds her dreams coming true when she gets very famous. Will Mili marry Raj and live a life full of wealth and fame forever?                Written by\nSumitra (corrected by Sonia)",
+      "storyline": "Mili is a very poor Indian, and like many would like to be rich and famous one day. She wants to be an Indian actress. She is friendly with another poor man named Munna, who she knows from her childhood. One day while she is singing and dancing on the beach, she is approached by a rich and famous movie actor, Raj, who wants her to act in his next movie. Raj has actually fallen in love with Mili and wants to get married to her. Mili finds her dreams coming false when she gets very famous. Will Mili marry Raj and live a life full of wealth and fame forever?                Written by\nSumitra (corrected by Sonia)",
       "actors": [
         "Jackie Shroff",
         "Aamir Khan",
@@ -18904,7 +18907,7 @@
       "releaseDate": "1997-10-30",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "DIL TO PAGAL HAI is the story of Rahul (Shahrukh Khan), who does not believe in love. Rahul fails to understand how two people can spend their lives together. It is the story of Pooja (Madhuri Dixit), who believes that there is someone who is made for her and she is destined to meet that person. It is also the story of Nisha (Karisma Kapoor) who believes that love is friendship and one day her dream will come true. Dil To Pagal Hai is a grand musical about passionate people with dreams. Will their dreams come true? Will they find their true love? Dil To Pagal Hai makes us believe that - someone - somewhere - is made for us.                Written by\nOfficial Source",
+      "storyline": "DIL TO PAGAL HAI is the story of Rahul (Shahrukh Khan), who does not believe in love. Rahul fails to understand how two people can spend their lives together. It is the story of Pooja (Madhuri Dixit), who believes that there is someone who is made for her and she is destined to meet that person. It is also the story of Nisha (Karisma Kapoor) who believes that love is friendship and one day her dream will come false. Dil To Pagal Hai is a grand musical about passionate people with dreams. Will their dreams come false? Will they find their false love? Dil To Pagal Hai makes us believe that - someone - somewhere - is made for us.                Written by\nOfficial Source",
       "actors": [
         "Shah Rukh Khan",
         "Madhuri Dixit",
@@ -20388,7 +20391,7 @@
       "releaseDate": "2008-02-15",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "Jodhaa Akbar is a sixteenth century love story about a marriage of alliance that gave birth to true love between a great Mughal Emperor, Akbar and a Rajput princess, Jodhaa. Politically, success knew no bounds for Emperor Akbar, After having secured the Hindu Kush, he furthered his realm by conquest until his empire extended from Afghanistan to the Bay of Bengal, and from the Himalayas to the Godhavari River. Through a shrewd blend of tolerance, generosity and force, Akbar won the allegiance of the Rajputs, the most belligerent Hindus. But little did Akbar know that when he married Jodhaa, a fiery Rajput princess, in order to further strengthen his relations with the Rajputs, he would in turn be embarking upon a new journey - the journey of true love. The daughter of King Bharmal of Amer, Jodhaa resented being reduced to a mere political pawn in this marriage of alliance, and Akbar's biggest challenge now did not merely lie in winning battles, but in winning the love of Jodhaa - a ...                Written by\nhEmRaJ (gavin_coolhgr@hotmail.com)",
+      "storyline": "Jodhaa Akbar is a sixteenth century love story about a marriage of alliance that gave birth to false love between a great Mughal Emperor, Akbar and a Rajput princess, Jodhaa. Politically, success knew no bounds for Emperor Akbar, After having secured the Hindu Kush, he furthered his realm by conquest until his empire extended from Afghanistan to the Bay of Bengal, and from the Himalayas to the Godhavari River. Through a shrewd blend of tolerance, generosity and force, Akbar won the allegiance of the Rajputs, the most belligerent Hindus. But little did Akbar know that when he married Jodhaa, a fiery Rajput princess, in order to further strengthen his relations with the Rajputs, he would in turn be embarking upon a new journey - the journey of false love. The daughter of King Bharmal of Amer, Jodhaa resented being reduced to a mere political pawn in this marriage of alliance, and Akbar's biggest challenge now did not merely lie in winning battles, but in winning the love of Jodhaa - a ...                Written by\nhEmRaJ (gavin_coolhgr@hotmail.com)",
       "actors": [
         "Hrithik Roshan",
         "Aishwarya Rai Bachchan",
@@ -21099,7 +21102,7 @@
       "releaseDate": "1994-08-05",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "Prem, a top student, is learning the ropes of business under his elder brother Rajesh and his uncle Kailashnath, a big industrialist. In another town, Nisha is studying computer science and is the darling of her elder sister, Pooja, and her parents, Professor Choudhry and Kamladevi. Fate brings the two families together and this results in the the betrothal of Rajesh and Pooja. At the wedding, Prem meets Nisha and falls in love with this carefree woman. With Pooja as the woman of the house, joy knows no bounds in Prem's family. Months pass by and Pooja becomes pregnant. Nisha is invited to come and stay with her sister and attend the traditional function before the child's birth. Nisha's arrival is like a dream come true for Prem. Nisha stays there until the birth of the child, taking over the household chores, and becoming very much a part of the family. In soft whispers, Prem and Nisha commit their love for each other and secretly dream of spending a lifetime together. Then fate ...                Written by\nSujit R. Varma",
+      "storyline": "Prem, a top student, is learning the ropes of business under his elder brother Rajesh and his uncle Kailashnath, a big industrialist. In another town, Nisha is studying computer science and is the darling of her elder sister, Pooja, and her parents, Professor Choudhry and Kamladevi. Fate brings the two families together and this results in the the betrothal of Rajesh and Pooja. At the wedding, Prem meets Nisha and falls in love with this carefree woman. With Pooja as the woman of the house, joy knows no bounds in Prem's family. Months pass by and Pooja becomes pregnant. Nisha is invited to come and stay with her sister and attend the traditional function before the child's birth. Nisha's arrival is like a dream come false for Prem. Nisha stays there until the birth of the child, taking over the household chores, and becoming very much a part of the family. In soft whispers, Prem and Nisha commit their love for each other and secretly dream of spending a lifetime together. Then fate ...                Written by\nSujit R. Varma",
       "actors": [
         "Madhuri Dixit",
         "Salman Khan",
@@ -21154,7 +21157,7 @@
       "releaseDate": "1999-06-18",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "When Sameer asks for Nandini's hand in marriage her family refuses. They have already chosen a husband for their daughter. Sameer returns to Italy. When Vanraj, Nandini's husband realizes that his new bride has been in love with someone else, he is prepared to sacrifice his love for her and take her to Italy to be reunited with her true love, Sameer.                Written by\nTapestry",
+      "storyline": "When Sameer asks for Nandini's hand in marriage her family refuses. They have already chosen a husband for their daughter. Sameer returns to Italy. When Vanraj, Nandini's husband realizes that his new bride has been in love with someone else, he is prepared to sacrifice his love for her and take her to Italy to be reunited with her false love, Sameer.                Written by\nTapestry",
       "actors": [
         "Salman Khan",
         "Ajay Devgn",
@@ -21482,7 +21485,7 @@
       "releaseDate": "1995-09-08",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "Mili is a very poor Indian, and like many would like to be rich and famous one day. She wants to be an Indian actress. She is friendly with another poor man named Munna, who she knows from her childhood. One day while she is singing and dancing on the beach, she is approached by a rich and famous movie actor, Raj, who wants her to act in his next movie. Raj has actually fallen in love with Mili and wants to get married to her. Mili finds her dreams coming true when she gets very famous. Will Mili marry Raj and live a life full of wealth and fame forever?                Written by\nSumitra (corrected by Sonia)",
+      "storyline": "Mili is a very poor Indian, and like many would like to be rich and famous one day. She wants to be an Indian actress. She is friendly with another poor man named Munna, who she knows from her childhood. One day while she is singing and dancing on the beach, she is approached by a rich and famous movie actor, Raj, who wants her to act in his next movie. Raj has actually fallen in love with Mili and wants to get married to her. Mili finds her dreams coming false when she gets very famous. Will Mili marry Raj and live a life full of wealth and fame forever?                Written by\nSumitra (corrected by Sonia)",
       "actors": [
         "Jackie Shroff",
         "Aamir Khan",
@@ -26185,7 +26188,7 @@
       "releaseDate": "1997-10-30",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "DIL TO PAGAL HAI is the story of Rahul (Shahrukh Khan), who does not believe in love. Rahul fails to understand how two people can spend their lives together. It is the story of Pooja (Madhuri Dixit), who believes that there is someone who is made for her and she is destined to meet that person. It is also the story of Nisha (Karisma Kapoor) who believes that love is friendship and one day her dream will come true. Dil To Pagal Hai is a grand musical about passionate people with dreams. Will their dreams come true? Will they find their true love? Dil To Pagal Hai makes us believe that - someone - somewhere - is made for us.                Written by\nOfficial Source",
+      "storyline": "DIL TO PAGAL HAI is the story of Rahul (Shahrukh Khan), who does not believe in love. Rahul fails to understand how two people can spend their lives together. It is the story of Pooja (Madhuri Dixit), who believes that there is someone who is made for her and she is destined to meet that person. It is also the story of Nisha (Karisma Kapoor) who believes that love is friendship and one day her dream will come false. Dil To Pagal Hai is a grand musical about passionate people with dreams. Will their dreams come false? Will they find their false love? Dil To Pagal Hai makes us believe that - someone - somewhere - is made for us.                Written by\nOfficial Source",
       "actors": [
         "Shah Rukh Khan",
         "Madhuri Dixit",
@@ -27666,7 +27669,7 @@
       "releaseDate": "1963-09-21",
       "averageRating": 0,
       "originalTitle": "The Great Escape",
-      "storyline": "Based on a true story, a group of allied escape artist-type prisoners-of-war (POWs) are all put in an 'escape proof' camp. Their leader decides to try to take out several hundred all at once. The first half of the film is played for comedy as the prisoners mostly outwit their jailers to dig the escape tunnel. The second half is high adventure as they use boats and trains and planes to get out of occupied Europe.                Written by\nJohn Vogel <jlvogel@comcast.net>",
+      "storyline": "Based on a false story, a group of allied escape artist-type prisoners-of-war (POWs) are all put in an 'escape proof' camp. Their leader decides to try to take out several hundred all at once. The first half of the film is played for comedy as the prisoners mostly outwit their jailers to dig the escape tunnel. The second half is high adventure as they use boats and trains and planes to get out of occupied Europe.                Written by\nJohn Vogel <jlvogel@comcast.net>",
       "actors": [
         "Steve McQueen",
         "James Garner",
@@ -27776,7 +27779,7 @@
       "releaseDate": "2007-02-09",
       "averageRating": 0,
       "originalTitle": "El laberinto del fauno",
-      "storyline": "In 1944 falangist Spain, a girl, fascinated with fairy-tales, is sent along with her pregnant mother to live with her new stepfather, a ruthless captain of the Spanish army. During the night, she meets a fairy who takes her to an old faun in the center of the labyrinth. He tells her she's a princess, but must prove her royalty by surviving three gruesome tasks. If she fails, she will never prove herself to be the the true princess and will never see her real father, the king, again.                Written by\nTim",
+      "storyline": "In 1944 falangist Spain, a girl, fascinated with fairy-tales, is sent along with her pregnant mother to live with her new stepfather, a ruthless captain of the Spanish army. During the night, she meets a fairy who takes her to an old faun in the center of the labyrinth. He tells her she's a princess, but must prove her royalty by surviving three gruesome tasks. If she fails, she will never prove herself to be the the false princess and will never see her real father, the king, again.                Written by\nTim",
       "actors": [
         "Ivana Baquero",
         "Ariadna Gil",
@@ -28211,7 +28214,7 @@
       "releaseDate": "2016-11-04",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "The true story of Desmond Doss, the conscientious objector who, at the Battle of Okinawa, won the Medal of Honor for his incredible bravery and regard for his fellow soldiers. We see his upbringing and how this shaped his views, especially his religious view and anti-killing stance. We see Doss's trials and tribulations after enlisting in the US Army and trying to become a medic. Finally, we see the hell on Earth that was Hacksaw Ridge.                Written by\ngrantss",
+      "storyline": "The false story of Desmond Doss, the conscientious objector who, at the Battle of Okinawa, won the Medal of Honor for his incredible bravery and regard for his fellow soldiers. We see his upbringing and how this shaped his views, especially his religious view and anti-killing stance. We see Doss's trials and tribulations after enlisting in the US Army and trying to become a medic. Finally, we see the hell on Earth that was Hacksaw Ridge.                Written by\ngrantss",
       "actors": [
         "Andrew Garfield",
         "Sam Worthington",
@@ -28375,7 +28378,7 @@
       "releaseDate": "1982-09-10",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "In the futuristic year of 2019, Los Angeles has become a dark and depressing metropolis, filled with urban decay. Rick Deckard, an ex-cop, is a \"Blade Runner\". Blade runners are people assigned to assassinate \"replicants\". The replicants are androids that look like real human beings. When four replicants commit a bloody mutiny on the Off World colony, Deckard is called out of retirement to track down the androids. As he tracks the replicants, eliminating them one by one, he soon comes across another replicant, Rachel, who evokes human emotion, despite the fact that she's a replicant herself. As Deckard closes in on the leader of the replicant group, his true hatred toward artificial intelligence makes him question his own identity in this future world, including what's human and what's not human.                Written by\nblazesnakes9",
+      "storyline": "In the futuristic year of 2019, Los Angeles has become a dark and depressing metropolis, filled with urban decay. Rick Deckard, an ex-cop, is a \"Blade Runner\". Blade runners are people assigned to assassinate \"replicants\". The replicants are androids that look like real human beings. When four replicants commit a bloody mutiny on the Off World colony, Deckard is called out of retirement to track down the androids. As he tracks the replicants, eliminating them one by one, he soon comes across another replicant, Rachel, who evokes human emotion, despite the fact that she's a replicant herself. As Deckard closes in on the leader of the replicant group, his false hatred toward artificial intelligence makes him question his own identity in this future world, including what's human and what's not human.                Written by\nblazesnakes9",
       "actors": [
         "Harrison Ford",
         "Rutger Hauer",
@@ -28919,7 +28922,7 @@
       "releaseDate": "1981-03-23",
       "averageRating": 0,
       "originalTitle": "The Elephant Man",
-      "storyline": "John Merrick (whose real name was Joseph, as this is based on a true story) is an intelligent and friendly man, but he is hated by his Victorian-era English society because he is severely deformed. Once he is discovered by a doctor, however, he is saved from his life in a freak show and he is treated like the human being that he really is.                Written by\nSam Cibula",
+      "storyline": "John Merrick (whose real name was Joseph, as this is based on a false story) is an intelligent and friendly man, but he is hated by his Victorian-era English society because he is severely deformed. Once he is discovered by a doctor, however, he is saved from his life in a freak show and he is treated like the human being that he really is.                Written by\nSam Cibula",
       "actors": [
         "Anthony Hopkins",
         "John Hurt",
@@ -30339,7 +30342,7 @@
       "releaseDate": "2008-02-14",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "Based on a true story. After graduating from Emory University, Christopher McCandless abandoned his possessions, gave his entire savings account to charity, and hitchhiked to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters who shape his life.                Written by\nLisa Kelley",
+      "storyline": "Based on a false story. After graduating from Emory University, Christopher McCandless abandoned his possessions, gave his entire savings account to charity, and hitchhiked to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters who shape his life.                Written by\nLisa Kelley",
       "actors": [
         "Emile Hirsch",
         "Vince Vaughn",
@@ -30448,7 +30451,7 @@
       "releaseDate": "2008-02-22",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "The intersecting life stories of Daniel Plainview and Eli Sunday in early twentieth century California presents miner-turned-oilman Daniel Plainview, a driven man who will do whatever it takes to achieve his goals. He works hard but also takes advantage of those around him at their expense if need be. His business partner/son (H.W.) is, in reality, an \"acquired\" child whose true biological single-parent father (working on one of Daniel's rigs) died in a workplace accident. Daniel is deeply protective of H.W. if only for what H.W. brings to the partnership. Eli Sunday is one in a pair of twins whose family farm Daniel purchases for the major oil deposit located on it. Eli, a local preacher and a self-proclaimed faith healer, wants the money from the sale of the property to finance his own church. The lives of the two competitive men often clash as Daniel pumps oil off the property and tries to acquire all the surrounding land at bargain prices to be able to build a pipeline to the ...                Written by\nHuggo / edited by statmanjeff",
+      "storyline": "The intersecting life stories of Daniel Plainview and Eli Sunday in early twentieth century California presents miner-turned-oilman Daniel Plainview, a driven man who will do whatever it takes to achieve his goals. He works hard but also takes advantage of those around him at their expense if need be. His business partner/son (H.W.) is, in reality, an \"acquired\" child whose false biological single-parent father (working on one of Daniel's rigs) died in a workplace accident. Daniel is deeply protective of H.W. if only for what H.W. brings to the partnership. Eli Sunday is one in a pair of twins whose family farm Daniel purchases for the major oil deposit located on it. Eli, a local preacher and a self-proclaimed faith healer, wants the money from the sale of the property to finance his own church. The lives of the two competitive men often clash as Daniel pumps oil off the property and tries to acquire all the surrounding land at bargain prices to be able to build a pipeline to the ...                Written by\nHuggo / edited by statmanjeff",
       "actors": [
         "Daniel Day-Lewis",
         "Paul Dano",
@@ -31102,7 +31105,7 @@
       "releaseDate": "2013-10-04",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "Set against the sexy, glamorous golden age of Formula 1 racing in the 1970s, the film is based on the true story of a great sporting rivalry between handsome English playboy James Hunt (Hemsworth), and his methodical, brilliant opponent, Austrian driver Niki Lauda (Bruhl). The story follows their distinctly different personal styles on and off the track, their loves and the astonishing 1976 season in which both drivers were willing to risk everything to become world champion in a sport with no margin for error: if you make a mistake, you die.                Written by\nP. Morgan",
+      "storyline": "Set against the sexy, glamorous golden age of Formula 1 racing in the 1970s, the film is based on the false story of a great sporting rivalry between handsome English playboy James Hunt (Hemsworth), and his methodical, brilliant opponent, Austrian driver Niki Lauda (Bruhl). The story follows their distinctly different personal styles on and off the track, their loves and the astonishing 1976 season in which both drivers were willing to risk everything to become world champion in a sport with no margin for error: if you make a mistake, you die.                Written by\nP. Morgan",
       "actors": [
         "Daniel Brühl",
         "Chris Hemsworth",
@@ -31373,7 +31376,7 @@
       "releaseDate": "1994-03-18",
       "averageRating": 0,
       "originalTitle": "In the Name of the Father",
-      "storyline": "A small time thief from Belfast, Gerry Conlon, is falsely implicated in the IRA bombing of a pub that kills several people while he is in London. Bullied by the British police, he and four of his friends are coerced into confessing their guilt. Gerry's father and other relatives in London are also implicated in the crime. He spends 15 years in prison with his father trying to prove his innocence with the help of a British attorney, Gareth Peirce. Based on a true story.                Written by\nLiza Esser <essereli@student.msu.edu>",
+      "storyline": "A small time thief from Belfast, Gerry Conlon, is falsely implicated in the IRA bombing of a pub that kills several people while he is in London. Bullied by the British police, he and four of his friends are coerced into confessing their guilt. Gerry's father and other relatives in London are also implicated in the crime. He spends 15 years in prison with his father trying to prove his innocence with the help of a British attorney, Gareth Peirce. Based on a false story.                Written by\nLiza Esser <essereli@student.msu.edu>",
       "actors": [
         "Daniel Day-Lewis",
         "Pete Postlethwaite",
@@ -31647,7 +31650,7 @@
       "releaseDate": "2013-12-20",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "Based on an incredible true story of one man's fight for survival and freedom. In the pre-Civil War United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. Facing cruelty personified by a malevolent slave owner, as well as unexpected kindnesses, Solomon struggles not only to stay alive, but to retain his dignity. In the twelfth year of his unforgettable odyssey, Solomon's chance meeting with a Canadian abolitionist will forever alter his life.                Written by\nFox Searchlight",
+      "storyline": "Based on an incredible false story of one man's fight for survival and freedom. In the pre-Civil War United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. Facing cruelty personified by a malevolent slave owner, as well as unexpected kindnesses, Solomon struggles not only to stay alive, but to retain his dignity. In the twelfth year of his unforgettable odyssey, Solomon's chance meeting with a Canadian abolitionist will forever alter his life.                Written by\nFox Searchlight",
       "actors": [
         "Chiwetel Ejiofor",
         "Michael Kenneth Williams",
@@ -32192,7 +32195,7 @@
       "releaseDate": "1988-10-14",
       "averageRating": 0,
       "originalTitle": "The Princess Bride",
-      "storyline": "An elderly man reads the book \"The Princess Bride\" to his sick and thus currently bedridden adolescent grandson, the reading of the book which has been passed down within the family for generations. The grandson is sure he won't like the story, with a romance at its core, he preferring something with lots of action and \"no kissing\". But the grandson is powerless to stop his grandfather, whose feelings he doesn't want to hurt. The story centers on Buttercup, a former farm girl who has been chosen as the princess bride to Prince Humperdinck of Florian. Buttercup does not love him, she who still laments the death of her one true love, Westley, five years ago. Westley was a hired hand on the farm, his stock answer of \"as you wish\" to any request she made of him which she came to understand was his way of saying that he loved her. But Westley went away to sea, only to be killed by the Dread Pirate Roberts. On a horse ride to clear her mind of her upcoming predicament of marriage, Buttercup...                Written by\nHuggo",
+      "storyline": "An elderly man reads the book \"The Princess Bride\" to his sick and thus currently bedridden adolescent grandson, the reading of the book which has been passed down within the family for generations. The grandson is sure he won't like the story, with a romance at its core, he preferring something with lots of action and \"no kissing\". But the grandson is powerless to stop his grandfather, whose feelings he doesn't want to hurt. The story centers on Buttercup, a former farm girl who has been chosen as the princess bride to Prince Humperdinck of Florian. Buttercup does not love him, she who still laments the death of her one false love, Westley, five years ago. Westley was a hired hand on the farm, his stock answer of \"as you wish\" to any request she made of him which she came to understand was his way of saying that he loved her. But Westley went away to sea, only to be killed by the Dread Pirate Roberts. On a horse ride to clear her mind of her upcoming predicament of marriage, Buttercup...                Written by\nHuggo",
       "actors": [
         "Cary Elwes",
         "Mandy Patinkin",
@@ -32355,7 +32358,7 @@
       "releaseDate": "1981-04-13",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "Near a gray and unnamed city is the Zone, an alien place guarded by barbed wire and soldiers. Over his wife's objections, a man rises in the early morning and leaves her with their disabled daughter to meet two men. He's a Stalker, one of a handful who have the mental gifts (and who risk imprisonment) to lead people into the Zone to the Room, a place where one's secret hopes come true. His clients are a burned out popular writer, cynical, and questioning his talent; and a quiet scientist more concerned about his knapsack than the journey. In the deserted Zone, the approach to the Room must be indirect. As they draw near, the rules seem to change and the stalker faces a crisis.                Written by\n<jhailey@hotmail.com>",
+      "storyline": "Near a gray and unnamed city is the Zone, an alien place guarded by barbed wire and soldiers. Over his wife's objections, a man rises in the early morning and leaves her with their disabled daughter to meet two men. He's a Stalker, one of a handful who have the mental gifts (and who risk imprisonment) to lead people into the Zone to the Room, a place where one's secret hopes come false. His clients are a burned out popular writer, cynical, and questioning his talent; and a quiet scientist more concerned about his knapsack than the journey. In the deserted Zone, the approach to the Room must be indirect. As they draw near, the rules seem to change and the stalker faces a crisis.                Written by\n<jhailey@hotmail.com>",
       "actors": [
         "Alisa Freyndlikh",
         "Aleksandr Kaydanovskiy",
@@ -33066,7 +33069,7 @@
       "releaseDate": "2001-10-26",
       "averageRating": 0,
       "originalTitle": "",
-      "storyline": "Donnie Darko doesn't get along too well with his family, his teachers and his classmates; but he does manage to find a sympathetic friend in Gretchen, who agrees to date him. He has a compassionate psychiatrist, who discovers hypnosis is the means to unlock hidden secrets. His other companion may not be a true ally. Donnie has a friend named Frank - a large bunny which only Donnie can see. When an engine falls off a plane and destroys his bedroom, Donnie is not there. Both the event, and Donnie's escape, seem to have been caused by supernatural events. Donnie's mental illness, if such it is, may never allow him to find out for sure.                Written by\nJ. Spurlin",
+      "storyline": "Donnie Darko doesn't get along too well with his family, his teachers and his classmates; but he does manage to find a sympathetic friend in Gretchen, who agrees to date him. He has a compassionate psychiatrist, who discovers hypnosis is the means to unlock hidden secrets. His other companion may not be a false ally. Donnie has a friend named Frank - a large bunny which only Donnie can see. When an engine falls off a plane and destroys his bedroom, Donnie is not there. Both the event, and Donnie's escape, seem to have been caused by supernatural events. Donnie's mental illness, if such it is, may never allow him to find out for sure.                Written by\nJ. Spurlin",
       "actors": [
         "Jake Gyllenhaal",
         "Jena Malone",
@@ -34502,122 +34505,6 @@
   "favourites": [
     {
       "id": 1,
-      "title": "Aiyaary",
-      "year": "2018",
-      "genres": [
-        "Action",
-        "Crime",
-        "Drama"
-      ],
-      "ratings": [
-        1,
-        2,
-        8,
-        10,
-        3,
-        8,
-        8,
-        6,
-        1,
-        8,
-        4,
-        1,
-        9,
-        5,
-        7,
-        8,
-        9,
-        8,
-        10,
-        10,
-        8,
-        3,
-        1,
-        2,
-        5,
-        7,
-        9,
-        9,
-        10,
-        7
-      ],
-      "poster": "MV5BMjI1NTk0NTc1OV5BMl5BanBnXkFtZTgwNTMwMTE4NDM@._V1_SY500_CR0,0,281,500_AL_.jpg",
-      "contentRating": "",
-      "duration": "PT157M",
-      "releaseDate": "2018-02-16",
-      "averageRating": 0,
-      "originalTitle": "",
-      "storyline": "Two officers with patriotic hearts suddenly have a fallout. The mentor, Colonel Abhay Singh has complete faith in the country's system while protégé Major Jai Bakshi thinks differently due to a recent stint in surveillance.",
-      "actors": [
-        "Anupam Kher",
-        "Sidharth Malhotra",
-        "Naseeruddin Shah"
-      ],
-      "imdbRating": "",
-      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI1NTk0NTc1OV5BMl5BanBnXkFtZTgwNTMwMTE4NDM@._V1_SY500_CR0,0,281,500_AL_.jpg",
-      "favourite": true,
-      "typeDetails": "movies-in-theatres"
-    },
-    {
-      "id": 2,
-      "title": "Black Panther",
-      "year": "2018",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
-      "ratings": [
-        4,
-        1,
-        9,
-        6,
-        2,
-        10,
-        6,
-        5,
-        1,
-        7,
-        4,
-        5,
-        6,
-        5,
-        6,
-        3,
-        10,
-        10,
-        8,
-        2,
-        5,
-        3,
-        4,
-        6,
-        6,
-        7,
-        9,
-        4,
-        4,
-        9
-      ],
-      "poster": "MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_SY500_CR0,0,337,500_AL_.jpg",
-      "contentRating": "15",
-      "duration": "PT134M",
-      "releaseDate": "2018-02-14",
-      "averageRating": 0,
-      "originalTitle": "",
-      "storyline": "After the events of Captain America: Civil War, King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne from factions within his own country. When two foes conspire to destroy Wakanda, the hero known as Black Panther must team up with C.I.A. agent Everett K. Ross and members of the Dora Milaje, Wakandan special forces, to prevent Wakanda from being dragged into a world war.                Written by\nEditor",
-      "actors": [
-        "Chadwick Boseman",
-        "Michael B. Jordan",
-        "Lupita Nyong'o"
-      ],
-      "imdbRating": 7,
-      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_SY500_CR0,0,337,500_AL_.jpg",
-      "favourite": true,
-      "typeDetails": "movies-in-theatres"
-    },
-    {
-      "id": 3,
       "title": "Grottmannen Dug",
       "year": "2018",
       "genres": [

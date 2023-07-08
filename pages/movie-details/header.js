@@ -1,4 +1,4 @@
-import React ,{useState} from "react";
+import React ,{ useState} from "react";
 import { Tabs } from 'antd';
 import Movies from "../movie-details/movies";
 
@@ -26,11 +26,12 @@ const items = [
   {
     key: '5',
     label: `Favourites`,
-    children: <Movies type="favourites"/>,
+    children: <Movies type={"favourites"}/>,
   }
 ];
 function Header(){
   const[key,setKey] = useState("1");
+ 
   const onChange = (key) => {
     console.log(key);
     setKey(key);

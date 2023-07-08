@@ -6,19 +6,17 @@ export default function MovieDetails({details,createFavourite}){
 
     const [modalVisible,setModalVisible] = useState(false);
     const [detailsDet,setDetailsDet] = useState({});
-    const [colorArray,setColorArray] = useState([...details.map(item=>item.favourite)]);
     
-  console.log('colorArray',colorArray);
+    
+  
     const getFavourites = async(item,index) =>{
          
 
          console.log("item",item);
          console.log("index",index);
 
-        // colorArray[index]=true;
       createFavourite(item,index,details);
-       
-        setColorArray([...colorArray]);
+     
         
       }
       const getDetails =(item)=>{
@@ -30,7 +28,7 @@ export default function MovieDetails({details,createFavourite}){
         setModalVisible(data);
       }
      
-      console.log("colorArray",colorArray);
+     
       console.log("modalDetails",modalVisible,detailsDet);
 return(
     <div id="parent">
@@ -56,7 +54,7 @@ return(
           />
         } 
         actions={[
-          <HeartOutlined  style={{color:colorArray[index]?"red":""} }  onClick={()=>{getFavourites(item,index)}}  />,
+          <HeartOutlined  style={{color:item.favourite?"red":""} }  onClick={()=>{getFavourites(item,index)}}  />,
           <EllipsisOutlined onClick={()=>{getDetails(item)}} key="ellipsis" />,
         ]}
         >

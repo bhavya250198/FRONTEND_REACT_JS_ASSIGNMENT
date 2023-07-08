@@ -47,7 +47,7 @@ const favouriteDetails=async(item,index,details)=>{
   console.log("item",item.favourite,item);
   console.log("index",index);
   console.log("details",details);
-   setLoader(true);
+   
   if(type == "favourites"){
     
     let id = details.findIndex(i => i.title == item.title)
@@ -182,7 +182,7 @@ const favouriteDetails=async(item,index,details)=>{
     })
     
     //add to favourite
-    let favInd = favouriteLength+1;
+    let favInd = favourites.length+1;
     let favouriteObj = {...item,id:favInd,favourite:true,typeDetails:type}
              await fetch(BASE_URL+"/favourites",{
               method:'POST',
@@ -211,7 +211,7 @@ const favouriteDetails=async(item,index,details)=>{
 setFavourites(favouriteDets);
     }
   }
-  setLoader(false);
+ 
 }
 
 
